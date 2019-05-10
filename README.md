@@ -1,5 +1,3 @@
-# vim
-vim settings
-
-
+# .vimrc
+##vim settings
 vimの設定ファイルを作ってみました。
